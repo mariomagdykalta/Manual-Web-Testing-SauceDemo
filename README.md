@@ -2,48 +2,61 @@
 
 ## Project Overview
 
-This project focuses on manual functional testing of the SauceDemo web application.
-
-## Application Under Test
-
-SauceDemo
+Manual testing project for SauceDemo web application, covering functional testing of login, products, sorting, shopping cart, and logout.
 
 ## Testing Scope
 
-- Login
-- Product Details
-- Product Sorting
-- Shopping Cart
-- Add/Remove Products
-- Logout
+* Login
+* Product Details
+* Product Sorting
+* Shopping Cart
+* Add/Remove Products
+* Logout
 
 ## Testing Techniques
 
-- Functional Testing
-- Positive Testing
-- Negative Testing
-- Test Scenario Design
-- Test Case Design
-- Test Execution
+* Functional Testing
+* Positive Testing
+* Negative Testing
+* Test Scenario Design
+* Test Case Design
+* Test Execution
+* Bug Reporting
 
-## Test Cases
+## Test Execution
 
-A total of 10 test cases were designed and executed.
+* Total Test Cases: 20
+* Passed: 14
+* Failed: 6
+* Pass Rate: 70%
 
-## Test Results
+## Bug Reports
 
-- Total Test Cases: 10
-- Passed: 10
-- Failed: 0
-- Not Executed: 0
-- Pass Rate: 100%
+6 bugs were identified and documented with:
+
+* Severity
+* Priority
+* Steps to Reproduce
+* Expected Result
+* Actual Result
+* Status
 
 ## Tools
 
-- Google Sheets
-- Chrome
-- GitHub
+* Google Sheets
+* Chrome
+* GitHub
 
 ## Test Documentation
 
-The test cases and execution results are documented in the project files.
+The project includes:
+
+* Test Cases
+* Test Execution
+* Bug Reports
+* Test Summary
+
+## Test Environment
+
+Web Browser – Google Chrome
+
